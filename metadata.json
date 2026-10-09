@@ -1,0 +1,6 @@
+{
+  "name": "ScreenShield AI — Intelligent Visual Privacy Guardian",
+  "description": "Enterprise on-device AI visual privacy guardian featuring real-time sensitive screen region detection, automated blur and blackout protection, custom privacy zones, shoulder-surfing guard, and security analytics.",
+  "requestFramePermissions": ["camera", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
